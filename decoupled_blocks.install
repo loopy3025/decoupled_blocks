@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the Decoupled Blocks
+ * module.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function decoupled_blocks_install() {
+  
+}
+
+/**
+ * Implements hook_uninstall().
+ */
+function decoupled_blocks_uninstall() {
+  
+}

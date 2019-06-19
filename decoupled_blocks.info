@@ -1,0 +1,7 @@
+name = "Decoupled Blocks"
+description = "Allows for the creation of Javascript Apps as submodules"
+package = Javascript
+core = 7.x
+
+configure = admin/config/development/decoupled_blocks
+
